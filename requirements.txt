@@ -1,0 +1,12 @@
+--index-url https://download.pytorch.org/whl/cu121
+
+torch           # PyTorch for deep learning (Backend for Sentence Transformers)
+torchvision     # Library for computer vision with PyTorch
+
+numpy           # fundamental package for scientific computing
+matplotlib      # Library to create visualizations
+scikit-learn    # Machine learning library for Python
+shap            # SHAP (SHapley Additive exPlanations) for model interpretability
+seaborn         # Statistical data visualization library built on top of Matplotlib
+lime            # LIME (Local Interpretable Model-agnostic Explanations) for local model interpretability
+eli5            # Library for debugging, inspecting, and explaining machine learning models
